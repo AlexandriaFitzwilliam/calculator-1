@@ -26,9 +26,13 @@ def divide(num1, num2):
 def square(num1):
     """Return the square of num1."""
 
+    return num1 ** 2
+
+
 
 def cube(num1):
     """Return the cube of num1."""
+    
 
 
 def power(num1, num2):
